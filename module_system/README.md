@@ -1,0 +1,1 @@
+A simple implementation of require in nodejs and an example of circular dependency
